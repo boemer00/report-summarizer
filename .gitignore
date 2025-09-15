@@ -1,0 +1,38 @@
+# Environment variables
+.env*
+.venv/
+venv/
+
+# IDE and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Reports and generated files
+reports/
+*.log
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
